@@ -7,9 +7,15 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation <a name="installation"></a>
+## Installation Requirements<a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+It is recommended to use Anaconda for this project and use its package manager to download the neceassry libraries
+
+Python 3.*
+Numpy
+Pandas
+matplotlib
+sklearn
 
 ## Project Motivation<a name="motivation"></a>
 
